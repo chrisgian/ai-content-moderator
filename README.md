@@ -28,11 +28,10 @@ Given above objectives the following data sources will be used:
 - General Resource:
     - [Catalog of Hate Speech Datasets](https://hatespeechdata.com/)
 - Sexism: 
-    - [Me Two Dataset](http://nlp.uned.es/~jcalbornoz/resources/metwo/)
-- Racism: 
-    - [White Supremacist Dataset](https://github.com/Vicomtech/hate-speech-dataset)
-- Threats:
-    - [Hate Speech](https://data.world/crowdflower/hate-speech-identification)
+    - [Automatic Misogyny Identification](https://amiibereval2018.wordpress.com/important-dates/data/)
+        - notes: need to get password from that team.
+- Online Bullying: 
+    - [](http://ub-web.de/research/)
 
 ## Evaluation:
 - Internal Validity: Can the model moderate content within the confines of this experiment (train-test split / K-Folds)?
@@ -43,8 +42,9 @@ Given above objectives the following data sources will be used:
 - `TBD`
 
 ## TODO
-- poc connect one dataset
-- come up with metadata needed for data extraction automation
+- identify quality datasets (one, two, three)
+- create method to extract csv of ids and labels and pass through twitter api
+
 
 
 
