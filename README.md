@@ -31,7 +31,9 @@ Given above objectives the following data sources will be used:
     - [Automatic Misogyny Identification](https://amiibereval2018.wordpress.com/important-dates/data/)
         - notes: need to get password from that team.
 - Online Bullying: 
-    - [](http://ub-web.de/research/)
+    - [Bullying](http://ub-web.de/research/)
+- Fox News Hate Speech:
+    - [Detecting Online Hate Speech Using Context Aware Models]()
 
 ## Evaluation:
 - Internal Validity: Can the model moderate content within the confines of this experiment (train-test split / K-Folds)?
